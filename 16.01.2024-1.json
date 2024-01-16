@@ -1,0 +1,25 @@
+{
+    "name": "Jill Bell",
+    "age": 46,
+    "address": {
+        "street": "Robinson Island",
+        "city": "North Bethport",
+        "state": "Michigan",
+        "zip": "17772"
+    },
+    "contact": {
+        "phone": "201-399-0521x963",
+        "servicePhone": "800115305"
+    },
+    "birthday": "1979-17-03",
+    "ip": "194.207.31.101",
+    "foo": "bar",
+    "profile": {
+        "about": "They whose appear must money. Coach significant scene necessary ask must address year. Blood experience listen establish line together.",
+        "bio": "Future hotel determine guy. Within exactly save financial attention five development must. In mother room teach threat six those."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
