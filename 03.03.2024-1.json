@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Hernandez",
+    "age": 64,
+    "address": {
+        "street": "Mario Common",
+        "city": "Charleshaven",
+        "state": "Rhode Island",
+        "zip": "20961"
+    },
+    "contact": {
+        "phone": "(633)934-4354x88419",
+        "servicePhone": "800932464"
+    },
+    "birthday": "1961-01-03",
+    "ip": "92.91.242.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Fill onto decide democratic camera. Down scientist ball study.\nGoal crime current. Majority choice section message. Strategy material third in option story.",
+        "bio": "Risk issue town bad. Center benefit seem condition.\nThrough level in discussion create. Raise whether great. Common score once world hotel form probably."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
