@@ -1,0 +1,25 @@
+{
+    "name": "William Weaver",
+    "age": 70,
+    "address": {
+        "street": "Russell Unions",
+        "city": "Mackenziemouth",
+        "state": "Michigan",
+        "zip": "12337"
+    },
+    "contact": {
+        "phone": "001-752-553-4502",
+        "servicePhone": "800115498"
+    },
+    "birthday": "1955-04-09",
+    "ip": "59.52.84.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark maintain top happen during subject national. Region memory prove energy product project who. Hope wind lose account message message.",
+        "bio": "People morning ahead history himself. Story break pick admit production can indicate."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
