@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Smith",
+    "age": 29,
+    "address": {
+        "street": "Isaac Light",
+        "city": "Williamsonmouth",
+        "state": "Indiana",
+        "zip": "41318"
+    },
+    "contact": {
+        "phone": "307.378.8213x09441",
+        "servicePhone": "800066770"
+    },
+    "birthday": "1996-27-11",
+    "ip": "196.146.43.47",
+    "foo": "bar",
+    "profile": {
+        "about": "His environmental toward himself letter. Collection if according push learn.\nUs position candidate good knowledge popular go. Century throughout understand face forget. Care already compare one half.",
+        "bio": "Car public from heart fund all. Financial save enter poor.\nWhose hotel carry. Glass role son ready education case serve. Once game need against fire technology."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
