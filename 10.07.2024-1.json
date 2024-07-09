@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Hernandez",
+    "age": 1,
+    "address": {
+        "street": "Hernandez Square",
+        "city": "North Samantha",
+        "state": "Kentucky",
+        "zip": "65625"
+    },
+    "contact": {
+        "phone": "613.340.8988x8366",
+        "servicePhone": "800443372"
+    },
+    "birthday": "2024-24-09",
+    "ip": "176.255.151.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine point drug two apply ground. Cause itself company charge. Rich easy gas among so eight. Thousand detail environment high suffer.",
+        "bio": "Order alone itself address. White place place much office describe. Eye whom everybody modern three investment impact remember.\nSchool central prevent stop cold seek vote."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
