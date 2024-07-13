@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Jefferson",
+    "age": 20,
+    "address": {
+        "street": "Stewart Divide",
+        "city": "Port Jeremy",
+        "state": "Hawaii",
+        "zip": "98994"
+    },
+    "contact": {
+        "phone": "(958)322-9736x58631",
+        "servicePhone": "800345621"
+    },
+    "birthday": "2005-19-02",
+    "ip": "9.97.23.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Tonight management serious ground put garden nor. Federal ahead become other blood pattern protect. However audience various cold.",
+        "bio": "Until sense west world suggest capital do. Marriage fine organization follow so."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
