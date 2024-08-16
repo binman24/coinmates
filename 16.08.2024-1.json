@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Hill PhD",
+    "age": 56,
+    "address": {
+        "street": "Tiffany Stream",
+        "city": "Zacharyborough",
+        "state": "Arkansas",
+        "zip": "47022"
+    },
+    "contact": {
+        "phone": "748-320-2656",
+        "servicePhone": "800640049"
+    },
+    "birthday": "1969-07-10",
+    "ip": "175.161.205.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Fear see than page ball particular. Teach discussion degree democratic often admit note.\nSafe property baby create or big. Few east else human technology by green make.",
+        "bio": "In carry blood. Measure game although only soldier.\nRoom your turn task skill subject nothing assume.\nMedia everyone resource today weight better think let. It mother control sometimes."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
