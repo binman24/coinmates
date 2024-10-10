@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Cruz",
+    "age": 73,
+    "address": {
+        "street": "Smith Drive",
+        "city": "Kellyport",
+        "state": "Georgia",
+        "zip": "34117"
+    },
+    "contact": {
+        "phone": "+1-418-501-8525x71242",
+        "servicePhone": "800027409"
+    },
+    "birthday": "1952-09-12",
+    "ip": "157.158.150.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Office occur him energy around pick capital. Perform age since imagine.\nOpen find help study fill my. See window less inside put. Wish job back town thought move.",
+        "bio": "Find important move next continue. Suffer program two common again. Whether one range where car own. Collection figure relate agreement out total heavy."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
