@@ -1,0 +1,25 @@
+{
+    "name": "David Martinez",
+    "age": 22,
+    "address": {
+        "street": "Jason Ford",
+        "city": "Snydertown",
+        "state": "Hawaii",
+        "zip": "66680"
+    },
+    "contact": {
+        "phone": "2229033083",
+        "servicePhone": "800050932"
+    },
+    "birthday": "2003-20-10",
+    "ip": "221.206.35.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover establish sport social piece. Data bar nice Mrs. Election theory democratic.",
+        "bio": "Section example share individual ago science site. Seven site human. Pm herself food food fill.\nThrow customer top drop. Watch from method less traditional term phone. Respond stay cost morning."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
