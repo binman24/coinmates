@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Douglas",
+    "age": 93,
+    "address": {
+        "street": "Fitzgerald Mountains",
+        "city": "North Lisa",
+        "state": "New York",
+        "zip": "45952"
+    },
+    "contact": {
+        "phone": "+1-608-438-5695x02843",
+        "servicePhone": "800397453"
+    },
+    "birthday": "1932-20-02",
+    "ip": "66.84.141.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Election unit society. Stop phone stage life area also. Wear late those standard.\nServe hard protect wait when. Item into industry agreement. Red shoulder series bar.",
+        "bio": "Coach kid adult middle institution relationship. Head a now plan stop take stand."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
