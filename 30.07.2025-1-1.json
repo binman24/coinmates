@@ -1,0 +1,25 @@
+{
+    "name": "Robert Randolph",
+    "age": 26,
+    "address": {
+        "street": "Crystal Plains",
+        "city": "North Sandra",
+        "state": "South Carolina",
+        "zip": "34328"
+    },
+    "contact": {
+        "phone": "001-435-443-9747x064",
+        "servicePhone": "800325238"
+    },
+    "birthday": "1999-05-11",
+    "ip": "50.178.206.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Building line school article evidence single box. Trouble able then born try. Possible else see bank other center.\nRole even court weight claim all. Popular rest out.\nIf part six thus cause foot.",
+        "bio": "Wonder article because decade important. War great only which thousand firm answer experience.\nCost company matter indeed indeed."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
