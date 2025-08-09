@@ -1,0 +1,25 @@
+{
+    "name": "Miss Kristen Cruz MD",
+    "age": 44,
+    "address": {
+        "street": "Norman Port",
+        "city": "Norrisville",
+        "state": "South Dakota",
+        "zip": "69436"
+    },
+    "contact": {
+        "phone": "503-403-4743",
+        "servicePhone": "800191746"
+    },
+    "birthday": "1981-27-04",
+    "ip": "149.12.154.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor clearly shake whose. Dinner time act pull. Language agent activity about.",
+        "bio": "Set feeling dream federal. Mother once college.\nMonth certain appear home body actually. Add Mrs available age else become. Quickly nearly develop."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
