@@ -1,0 +1,25 @@
+{
+    "name": "Corey Harris",
+    "age": 75,
+    "address": {
+        "street": "Steele Knoll",
+        "city": "Rebeccatown",
+        "state": "Ohio",
+        "zip": "79968"
+    },
+    "contact": {
+        "phone": "3295128302",
+        "servicePhone": "800569852"
+    },
+    "birthday": "1950-15-01",
+    "ip": "101.129.176.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious now account rich remain. Now participant possible series.",
+        "bio": "Increase almost low other many start rather. Movie when especially shoulder TV any hour. Finally reveal result wind threat whole really."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
