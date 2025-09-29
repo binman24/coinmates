@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Carroll",
+    "age": 91,
+    "address": {
+        "street": "Melissa Roads",
+        "city": "Bowmanfurt",
+        "state": "New Hampshire",
+        "zip": "67618"
+    },
+    "contact": {
+        "phone": "(736)994-3503",
+        "servicePhone": "800300359"
+    },
+    "birthday": "1934-02-01",
+    "ip": "29.124.75.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer record bed way. Kind address hand clearly.\nGrowth design sense moment feeling. Themselves catch off final color light director.",
+        "bio": "Peace ready team start. Team though future.\nFund leader group fish dog report. Produce still whatever voice college not. Author authority another important energy."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

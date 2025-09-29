@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Serrano",
+    "age": 60,
+    "address": {
+        "street": "Cynthia Knoll",
+        "city": "Jenniferfort",
+        "state": "Minnesota",
+        "zip": "05659"
+    },
+    "contact": {
+        "phone": "001-783-392-7809",
+        "servicePhone": "800189309"
+    },
+    "birthday": "1965-13-08",
+    "ip": "175.49.102.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass war shoulder choose. Sign media health capital choose. Quickly hotel energy three author people can prevent. Chair few out far western glass.",
+        "bio": "Rich plant agree look. Stage by impact no.\nTogether picture happy compare. Instead mention make become. Seek need may."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
