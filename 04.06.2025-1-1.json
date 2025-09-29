@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Wright",
+    "age": 60,
+    "address": {
+        "street": "Victoria Rest",
+        "city": "Port Donna",
+        "state": "Nebraska",
+        "zip": "43576"
+    },
+    "contact": {
+        "phone": "455-237-3836x54950",
+        "servicePhone": "800115352"
+    },
+    "birthday": "1965-19-11",
+    "ip": "130.125.141.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Kitchen above seek someone begin. Price start game impact same.\nAccept baby right lead. Art certain set experience herself room. Design rate article beyond something detail American they.",
+        "bio": "Less occur total region sell above budget. Mother local election. Exactly watch themselves why according."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}

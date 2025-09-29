@@ -1,0 +1,25 @@
+{
+    "name": "Kathy Carrillo",
+    "age": 100,
+    "address": {
+        "street": "Andrew Lights",
+        "city": "Port Connor",
+        "state": "Illinois",
+        "zip": "21826"
+    },
+    "contact": {
+        "phone": "767.611.3702x2052",
+        "servicePhone": "800179838"
+    },
+    "birthday": "1925-05-02",
+    "ip": "197.95.182.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Range able minute. Base student chance. Model risk sell statement.\nOutside represent contain today president hit care discussion. Side education admit know.",
+        "bio": "Together trade movie fill huge operation. Marriage sea factor popular foreign stock road. Detail list dark rest realize.\nStory upon box what important. Often information offer."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

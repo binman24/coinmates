@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Blankenship",
+    "age": 29,
+    "address": {
+        "street": "Anthony Forks",
+        "city": "Connieshire",
+        "state": "Pennsylvania",
+        "zip": "98881"
+    },
+    "contact": {
+        "phone": "894.974.0820x0310",
+        "servicePhone": "800898205"
+    },
+    "birthday": "1996-22-12",
+    "ip": "191.205.21.78",
+    "foo": "bar",
+    "profile": {
+        "about": "To explain white popular. Budget for street.\nOpportunity no until reality a. Country glass world want until group other enjoy. Prepare realize sit happen professional determine only budget.",
+        "bio": "Oil environmental attention lot maybe. Increase short full. Cold agency like official top serious bill.\nEast officer entire phone vote budget. Truth computer small recognize. Evidence call piece."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
