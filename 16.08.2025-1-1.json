@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Zuniga",
+    "age": 54,
+    "address": {
+        "street": "Justin Creek",
+        "city": "Walkerborough",
+        "state": "Iowa",
+        "zip": "82875"
+    },
+    "contact": {
+        "phone": "888.303.3779x514",
+        "servicePhone": "800199387"
+    },
+    "birthday": "1971-05-11",
+    "ip": "76.9.103.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Resource summer assume space others treatment. Large why material personal store establish.\nBad federal paper shoulder visit hear. Challenge later some machine worry pretty serious certain.",
+        "bio": "Technology pick question rate. Share result stand traditional quickly.\nTrial board affect section whose position easy rise. Mother bring whose part."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

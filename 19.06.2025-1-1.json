@@ -1,0 +1,25 @@
+{
+    "name": "Erika Castillo",
+    "age": 8,
+    "address": {
+        "street": "Figueroa Skyway",
+        "city": "Savannahmouth",
+        "state": "Kansas",
+        "zip": "49042"
+    },
+    "contact": {
+        "phone": "8808270625",
+        "servicePhone": "800760900"
+    },
+    "birthday": "2017-10-06",
+    "ip": "211.189.147.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Final issue bit easy out. Specific view defense benefit.\nWhose mind how young. Point pattern real so people affect. Official capital executive mother can try capital.",
+        "bio": "While actually so bank all teacher believe. Hope party bit near move.\nBegin politics recent when civil either. Close high party science type."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

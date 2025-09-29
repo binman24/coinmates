@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Strong",
+    "age": 111,
+    "address": {
+        "street": "Smith Motorway",
+        "city": "Greentown",
+        "state": "West Virginia",
+        "zip": "15755"
+    },
+    "contact": {
+        "phone": "(943)508-8271x586",
+        "servicePhone": "800033298"
+    },
+    "birthday": "1914-30-05",
+    "ip": "181.134.24.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake key sort. Arrive indeed decide six. Rate prevent success different stuff chance these.\nTelevision him music article result meeting. Doctor member and send listen.",
+        "bio": "National executive voice cause yes everyone Democrat.\nSignificant free hour later term major left.\nBehind learn meet spring like who. End we success. Senior boy trip return range."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
