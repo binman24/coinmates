@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Fowler",
+    "age": 76,
+    "address": {
+        "street": "Brandon Grove",
+        "city": "Rayport",
+        "state": "Wisconsin",
+        "zip": "30446"
+    },
+    "contact": {
+        "phone": "001-291-566-4372x38126",
+        "servicePhone": "800121686"
+    },
+    "birthday": "1949-26-04",
+    "ip": "148.73.155.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow six guy nature alone camera evidence. Discussion agreement analysis some government similar tax.\nProfessor player water season common. Wrong second interesting short anything ever.",
+        "bio": "Represent seat such like allow. Continue wish poor beyond morning image. Kind provide rock when article town ground. Become you her anything east."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

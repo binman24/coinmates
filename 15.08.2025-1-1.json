@@ -1,0 +1,25 @@
+{
+    "name": "Debra Bailey",
+    "age": 111,
+    "address": {
+        "street": "William Forest",
+        "city": "Barrton",
+        "state": "Missouri",
+        "zip": "80248"
+    },
+    "contact": {
+        "phone": "600.950.6348x0614",
+        "servicePhone": "800746176"
+    },
+    "birthday": "1914-28-08",
+    "ip": "50.20.224.206",
+    "foo": "bar",
+    "profile": {
+        "about": "International forget radio need opportunity they claim. Product education pass left blue choice family. Total democratic item gun think join us.",
+        "bio": "Win bad natural begin somebody. Believe character study look turn difficult. Police important them manager us trip."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}

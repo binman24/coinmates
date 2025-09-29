@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Davis",
+    "age": 95,
+    "address": {
+        "street": "Duran Stravenue",
+        "city": "North Lauraville",
+        "state": "New Mexico",
+        "zip": "27607"
+    },
+    "contact": {
+        "phone": "001-549-750-5701x542",
+        "servicePhone": "800133894"
+    },
+    "birthday": "1930-11-11",
+    "ip": "190.246.40.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband meet serve yourself him beat particularly. Development anyone top message since the. Peace talk everybody subject.",
+        "bio": "Gun point possible nor tough quality. Bar firm work its out necessary cultural go. While technology where begin.\nBill especially important seem early hard us when. Another few although."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
