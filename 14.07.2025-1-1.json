@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Martinez",
+    "age": 55,
+    "address": {
+        "street": "Sandra Landing",
+        "city": "Lake Billy",
+        "state": "Tennessee",
+        "zip": "14855"
+    },
+    "contact": {
+        "phone": "(546)910-5574",
+        "servicePhone": "800667350"
+    },
+    "birthday": "1970-09-03",
+    "ip": "60.219.127.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Move order clearly trip top daughter before. Free reduce tax nation member worker choose. Interview before send top hard agency.\nTest miss necessary listen it. These impact college share effect.",
+        "bio": "Apply remain themselves. Gun hard successful. Because somebody animal record care record.\nAt drop at skill arm guy lawyer upon. Him work agree consider cause. Just middle nearly news fund why."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
