@@ -1,0 +1,25 @@
+{
+    "name": "Richard Diaz",
+    "age": 56,
+    "address": {
+        "street": "Alexander Radial",
+        "city": "Ashleyberg",
+        "state": "Alabama",
+        "zip": "42704"
+    },
+    "contact": {
+        "phone": "001-867-493-9141x2192",
+        "servicePhone": "800540762"
+    },
+    "birthday": "1969-05-03",
+    "ip": "33.181.241.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Test ground want girl. Term last rich give. Firm trip three remember these trial clear. Together factor myself.\nPopular like different by today they whole. Short four give stuff tough author perform.",
+        "bio": "Prevent memory me whatever PM like book. Under evidence part certainly number.\nNorth role provide ten. Avoid thought during lead. More oil few rich beyond market example."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
