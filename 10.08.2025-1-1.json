@@ -1,0 +1,25 @@
+{
+    "name": "Randy Garza",
+    "age": 92,
+    "address": {
+        "street": "Ellis Row",
+        "city": "West Steventown",
+        "state": "Missouri",
+        "zip": "42312"
+    },
+    "contact": {
+        "phone": "845-417-6523x067",
+        "servicePhone": "800417915"
+    },
+    "birthday": "1933-16-04",
+    "ip": "217.82.216.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Left source international collection. Marriage marriage fly recognize happen there religious. Also million door Democrat change series.",
+        "bio": "Bar management director say. Of note allow finally member know three.\nOr man dream edge never media. Finish lead free charge garden control. Thing early benefit student full."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
