@@ -1,0 +1,25 @@
+{
+    "name": "Linda Brown",
+    "age": 105,
+    "address": {
+        "street": "Bradley Cliffs",
+        "city": "Nortonmouth",
+        "state": "Kansas",
+        "zip": "23175"
+    },
+    "contact": {
+        "phone": "328.982.1135",
+        "servicePhone": "800764071"
+    },
+    "birthday": "1920-13-10",
+    "ip": "59.96.105.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil team paper water. Minute tonight upon fall.\nAdd cultural maintain listen page line together study.\nWeek picture federal surface if true yet set. Executive performance possible occur.",
+        "bio": "Able deal education market agent run including. Point people case side fine finish magazine. Way lay road sing."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
