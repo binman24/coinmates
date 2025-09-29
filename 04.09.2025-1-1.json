@@ -1,0 +1,25 @@
+{
+    "name": "James Savage",
+    "age": 107,
+    "address": {
+        "street": "Lawson Terrace",
+        "city": "Alishahaven",
+        "state": "Vermont",
+        "zip": "65296"
+    },
+    "contact": {
+        "phone": "+1-364-283-9987x753",
+        "servicePhone": "800316054"
+    },
+    "birthday": "1918-14-03",
+    "ip": "25.155.65.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Sister career education. Race management establish or east tree bad.",
+        "bio": "Use cut economic movie enjoy around financial. State certainly institution wear small week network. Hot others sister never institution interview significant."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

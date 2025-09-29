@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Martin",
+    "age": 82,
+    "address": {
+        "street": "Walter Trail",
+        "city": "Thompsonton",
+        "state": "Delaware",
+        "zip": "78769"
+    },
+    "contact": {
+        "phone": "3937632090",
+        "servicePhone": "800217197"
+    },
+    "birthday": "1943-21-09",
+    "ip": "66.118.9.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Able apply style shake. Close pressure billion film language thus.\nStore once environment step. Strategy green wide energy machine any. Major easy bring star he.",
+        "bio": "Population have leave court majority notice impact detail. Manager not big already.\nWorld tree town quality need face kid. Human around collection lose right central sea. Want always newspaper door."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
